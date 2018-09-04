@@ -1,0 +1,7 @@
+c:\users\bubub\source\repos\testeGeografia\testeGeografia\obj\Debug\testeGeografia.csprojAssemblyReference.cache
+c:\users\bubub\source\repos\testeGeografia\testeGeografia\obj\Debug\testeGeografia.csproj.CoreCompileInputs.cache
+c:\users\bubub\source\repos\testeGeografia\testeGeografia\bin\Debug\testeGeografia.exe.config
+c:\users\bubub\source\repos\testeGeografia\testeGeografia\bin\Debug\testeGeografia.exe
+c:\users\bubub\source\repos\testeGeografia\testeGeografia\bin\Debug\testeGeografia.pdb
+c:\users\bubub\source\repos\testeGeografia\testeGeografia\obj\Debug\testeGeografia.exe
+c:\users\bubub\source\repos\testeGeografia\testeGeografia\obj\Debug\testeGeografia.pdb
